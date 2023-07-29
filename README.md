@@ -13,7 +13,7 @@ By working on this project, we seek to:
 - **Promote Open-Source Collaboration:** Foster a community where developers can contribute, learn, and grow together.
 - **Open Doors for Future Development:** While currently a learning project, we envision that with community contributions and dedication, this database engine can evolve into a more feature-complete and production-ready system.
 
-**Note:** As of now, Your Database Engine Name is primarily intended for educational purposes. It may not be suitable for production environments. However, with the collective efforts of contributors, we aim to evolve this project into a more versatile and reliable solution.
+**Note:** As of now, SteelVolt is primarily intended for educational purposes. It may not be suitable for production environments. However, with the collective efforts of contributors, we aim to evolve this project into a more versatile and reliable solution.
 
 ## Key Features
 
@@ -30,11 +30,11 @@ Please refer to the [installation guide](docs/INSTALL.md) for detailed instructi
 
 ## Usage
 
-To get started with using Your Database Engine Name, check out the [usage guide](docs/USAGE.md) for examples and documentation on how to interact with the database engine.
+To get started with using SteelVolt Engine Name, check out the [usage guide](docs/USAGE.md) for examples and documentation on how to interact with the database engine.
 
 ## Contributing
 
-We welcome contributions from the community! Since this project is primarily a learning endeavor, contributions can serve to improve the educational value and code quality. If you'd like to contribute to Your Database Engine Name, please follow the guidelines in the [contribution guide](CONTRIBUTING.md).
+We welcome contributions from the community! Since this project is primarily a learning endeavor, contributions can serve to improve the educational value and code quality. If you'd like to contribute to SteelVolt Engine Name, please follow the guidelines in the [contribution guide](CONTRIBUTING.md).
 
 ## Bug Reports and Feature Requests
 
@@ -42,7 +42,7 @@ As a learning project, bug reports and feature requests are also valuable in imp
 
 ## License
 
-Your Database Engine Name is licensed under the [MIT License](LICENSE).
+SteelVolt is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
